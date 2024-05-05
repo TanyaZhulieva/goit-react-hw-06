@@ -16,6 +16,10 @@
       flex-direction: column;
   }
   
+  .label {
+    display: block;
+  }
+
   .input {
       padding: 4px;
   }
